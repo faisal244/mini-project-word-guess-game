@@ -1,7 +1,7 @@
 # Week 4 mini project - Word Guess
  
 
-In this activity, you will to build a game using JavaScript and Web APIs.
+In this activity, you will build a game using JavaScript and Web APIs.
 
 ## Acceptance Criteria
 
