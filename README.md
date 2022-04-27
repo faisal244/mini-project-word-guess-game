@@ -1,7 +1,6 @@
-# Week 4 mini project - Word Guess
- 
+# Mini project - Word Guess 
 
-In this activity, you will build a game using JavaScript and Web APIs.
+This is a simple word guessing game i built using Vanilla JavaScript and Web APIs.
 
 ## Acceptance Criteria
 
